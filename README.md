@@ -1,5 +1,5 @@
 # SummerAnalytics_Assignments
-Summer Analytics 2025 Course Assignments
+Summer Analytics Course by IIT Guwahati 2025
 
 # 🧠 NHANES Age Group Prediction Challenge (Hackathon2)
 
